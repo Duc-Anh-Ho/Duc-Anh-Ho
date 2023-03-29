@@ -14,5 +14,5 @@
             # Use this username's contribution graph  
             user_name: Duc-Anh-Ho
             # Text on contribution graph 
-            text:  -D.ANH-
+            text:  !D.ANH!
        - uses: jasineri/simple-push-action@v1
