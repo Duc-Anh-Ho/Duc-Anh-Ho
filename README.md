@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+## Contributions:
+
+![snake gif](https://github.com/Duc-Anh-Ho/Duc-Anh-Ho/blob/output/github-contribution-grid-snake.gif)
+
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Duc-Anh-Ho/Duc-Anh-Ho/blob/output/github-contribution-grid-snake.gif" />
+  <img alt="contributions-snake" src="https://github.com/Duc-Anh-Ho/Duc-Anh-Ho/blob/output/github-contribution-grid-snake.gif" />
+</picture> -->
+
 <!--
 **Duc-Anh-Ho/Duc-Anh-Ho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
