@@ -1,8 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
 ## Contributions:
-
-![snake gif](https://github.com/Duc-Anh-Ho/Duc-Anh-Ho/blob/output/github-contribution-grid-snake.gif)
+### Snake:
+![snake gif](https://github.com/Duc-Anh-Ho/Duc-Anh-Ho/blob/output/github-contribution-grid-snake.svg)
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="" />
