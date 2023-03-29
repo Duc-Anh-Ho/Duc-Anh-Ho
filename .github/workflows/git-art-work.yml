@@ -15,4 +15,4 @@
             user_name: Duc-Anh-Ho
             # Text on contribution graph 
             text: DUC ANH HO
-       - uses: jasineri/simple-push-action@v1
+#        - uses: jasineri/simple-push-action@v1
