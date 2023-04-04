@@ -3,7 +3,7 @@
 <!-- ### Snake:  -->
 ![snake gif](https://github.com/Duc-Anh-Ho/Duc-Anh-Ho/blob/output/github-contribution-grid-snake.svg)
 <!-- ### Git Art Work: -->
-![gitartwork](gitartwork.svg)
+<!-- ![gitartwork](gitartwork.svg) -->
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="" />
