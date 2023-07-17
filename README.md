@@ -1,7 +1,7 @@
 ## Hi there 👋
 <!-- ## Contributions: -->
 <!-- ### Snake:  -->
-![snake gif](https://github.com/Duc-Anh-Ho/Duc-Anh-Ho/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/Duc-Anh-Ho/Duc-Anh-Ho/blob/output/github-contribution-grid-snake.svg) -->
 <!-- ### Git Art Work: -->
 <!-- ![gitartwork](gitartwork.svg) -->
 
