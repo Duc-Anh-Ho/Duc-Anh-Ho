@@ -1,13 +1,14 @@
 # Hi there 👋
 ---
-## DANH Tools:
+## DANH Tools: 
+#### [Repository](https://github.com/Duc-Anh-Ho/VBA-projects)
 ![Danh Tools Screenshot](https://github.com/Duc-Anh-Ho/VBA-projects/blob/main/Images/Screenshot%202023-07-29%20174139.png)
 
-#### [Click here for download: **Danh-Tools-Installation.xlsb**](https://github.com/Duc-Anh-Ho/VBA-projects/raw/main/Danh-Tools-Installation.xlsb)[<img src="https://github.com/Duc-Anh-Ho/VBA-projects/blob/main/Images/icon.png" alt="icon" width="50">](https://github.com/Duc-Anh-Ho/VBA-projects/raw/main/Danh-Tools-Installation.xlsb) 
+#### [Click here for download: ***Danh-Tools-Installation.xlsb***](https://github.com/Duc-Anh-Ho/VBA-projects/raw/main/Danh-Tools-Installation.xlsb)[<img src="https://github.com/Duc-Anh-Ho/VBA-projects/blob/main/Images/icon.png" alt="icon" width="50">](https://github.com/Duc-Anh-Ho/VBA-projects/raw/main/Danh-Tools-Installation.xlsb) 
 ---
-## Contributions:
+<!-- ## Contributions:
 ### Snake:
-![snake gif](https://github.com/Duc-Anh-Ho/Duc-Anh-Ho/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Duc-Anh-Ho/Duc-Anh-Ho/blob/output/github-contribution-grid-snake.svg) -->
 <!-- ### Git Art Work: -->
 <!-- ![gitartwork](gitartwork.svg) -->
 
